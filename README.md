@@ -1,8 +1,8 @@
 # Tiny Racers
 
-A top-down tabletop racing game for Android: tiny cars racing across a
-kitchen table. Race the bots, chase your own ghost, or race each other on
-the same Wi-Fi with up to 4 phones.
+A top-down tabletop racing game for Android: tiny cars racing across
+tables, desks and floors around the house. 12 tracks. Race the bots, chase
+your own ghost, or race each other on the same Wi-Fi with up to 4 phones.
 
 **[Download the latest version](https://github.com/daplein/tiny-racers-releases/releases/latest)**
 (the `.apk` file under *Assets*).
@@ -11,8 +11,19 @@ the same Wi-Fi with up to 4 phones.
 
 | | |
 |---|---|
-| ![Start menu](screenshots/menu.png) | ![Spilled cereal](screenshots/cereal.png) |
+| ![Start menu with the track picker](screenshots/menu.png) | ![Big Table: the gingham tablecloth](screenshots/big-table.png) |
+| ![Round Table: under the chairs](screenshots/round-table.png) | ![Juggling Mat: cigar-box chicane](screenshots/juggling.png) |
+| ![Office Desk: over the keyboard](screenshots/office-desk.png) | ![Spilled cereal](screenshots/cereal.png) |
 | ![Race results](screenshots/results.png) | ![Hosting a race, with the QR code to join](screenshots/play-together.png) |
+
+## The 12 tracks
+
+![All 12 tracks](screenshots/all-tracks.png)
+
+Kitchen Table, Big Table, Kitchen Worktop, Office Desk, Living Room, Cinema
+Room, Stairs, Corridor, Shoe Rack, Round Table, Dresser and the Juggling
+Mat. Pick one on the start menu with the arrows (when playing together, the
+host picks).
 
 ## Install on Android
 
@@ -28,7 +39,8 @@ New versions install over the old one; your settings and best laps stay.
 - **Knockout:** the camera follows the leader. Fall off the screen and you're
   out; the last car left scores. First to 8 points wins.
 - **Laps:** 3 laps, no knockouts, everyone finishes.
-- **Ghost:** race alone against a see-through replay of your best lap.
+- **Ghost:** race alone against a see-through replay of your best lap
+  (one best lap per track).
 
 **Controls** (pick on the start menu):
 
