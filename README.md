@@ -7,6 +7,13 @@ the same Wi-Fi with up to 4 phones.
 **[Download the latest version](https://github.com/daplein/tiny-racers-releases/releases/latest)**
 (the `.apk` file under *Assets*).
 
+![Jumping off the book ramp](screenshots/jump.png)
+
+| | |
+|---|---|
+| ![Start menu](screenshots/menu.png) | ![Spilled cereal](screenshots/cereal.png) |
+| ![Race results](screenshots/results.png) | ![Hosting a race, with the QR code to join](screenshots/play-together.png) |
+
 ## Install on Android
 
 1. On the phone, open the download link above and tap the `.apk` file.
