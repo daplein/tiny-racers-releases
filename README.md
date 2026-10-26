@@ -4,8 +4,14 @@ A top-down tabletop racing game for Android: tiny cars racing across
 tables, desks and floors around the house. 12 tracks. Race the bots, chase
 your own ghost, or race each other on the same Wi-Fi with up to 4 phones.
 
-**[Download the latest version](https://github.com/daplein/tiny-racers-releases/releases/latest)**
-(the `.apk` file under *Assets*).
+**[Install Tiny Racers](https://daplein.github.io/apps/tiny-racers/)**: open
+that page on your Android phone and tap *Download for Android*. Or scan this
+with the phone's camera:
+
+<img src="https://daplein.github.io/apps/tiny-racers/qr.svg" alt="QR code for the install page" width="180">
+
+To share it from the game, tap **Share** on the start menu and let a friend
+scan the code. The game also tells you when a new version is out.
 
 ![Jumping off the book ramp](screenshots/jump.png)
 
@@ -27,7 +33,8 @@ host picks).
 
 ## Install on Android
 
-1. On the phone, open the download link above and tap the `.apk` file.
+1. On the phone, open the [install page](https://daplein.github.io/apps/tiny-racers/),
+   tap **Download for Android**, then tap the downloaded file.
 2. When Android asks, allow your browser (or Files app) to
    **install unknown apps**.
 3. Tap **Install**, then open **Tiny Racers**. It plays in landscape.
